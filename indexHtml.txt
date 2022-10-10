@@ -1,4 +1,1 @@
-Some Sample text in my Index.html file.
-
-Updated to Version 2
-Version 3 Here
+Version 5
